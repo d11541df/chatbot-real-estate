@@ -42,7 +42,6 @@
 import streamlit as st
 import os
 import time
-
 from llm import get_ai_response
 
 st.set_page_config(page_title="부동산 챗봇", page_icon='집')
